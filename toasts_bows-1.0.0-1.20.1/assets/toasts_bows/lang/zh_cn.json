@@ -1,0 +1,14 @@
+{
+  "item.toasts_bows.daedalus": "代达罗斯之弓",
+  "item.toasts_bows.singularity": "奇点",
+  "item.toasts_bows.chrono": "时之序",
+  "item.toasts_bows.beeshoney": "蜂糖",
+  "item.toasts_bows.dusklight": "昏光",
+  "item.toasts_bows.magic_quiver": "魔法箭袋",
+
+  "item.toasts_bows.magicquiver.contains": "内含: %s",
+  "item.toasts_bows.magicquiver.durability": "耐久: %s/%s",
+  "item.toasts_bows.magicquiver.empty": "空 - 右键存入武器",
+
+  "itemGroup.toasts_tab": "吐司的弓"
+}

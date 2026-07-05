@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "A": {
+      "item": "minecraft:arrow"
+    }
+  },
+  "pattern": [
+    " LA",
+    "LAL",
+    "LL "
+  ],
+  "result": {
+    "item": "toasts_bows:magic_quiver"
+  },
+  "show_notification": true
+}

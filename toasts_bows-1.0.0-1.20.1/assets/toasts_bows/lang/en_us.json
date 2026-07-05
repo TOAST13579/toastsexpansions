@@ -1,0 +1,14 @@
+{
+  "item.toasts_bows.daedalus": "Daedalus",
+  "item.toasts_bows.singularity": "Singularity",
+  "item.toasts_bows.chrono": "Chrono",
+  "item.toasts_bows.beeshoney": "Beeshoney",
+  "item.toasts_bows.dusklight": "Dusklight",
+  "item.toasts_bows.magic_quiver": "Magic Quiver",
+
+  "item.toasts_bows.magicquiver.contains": "Contains: %s",
+  "item.toasts_bows.magicquiver.durability": "Durability: %s/%s",
+  "item.toasts_bows.magicquiver.empty": "Empty - Right-click to store weapon",
+
+  "itemGroup.toasts_tab": "TOASTS\u2018SBOWS"
+}

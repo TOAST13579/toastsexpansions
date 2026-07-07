@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "item": "minecraft:bow"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    " BN",
+    "BN ",
+    "N  "
+  ],
+  "result": {
+    "item": "toasts_bows:dusklight"
+  },
+  "show_notification": true
+}

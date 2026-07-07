@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "toasts_bows:item/beeshoney_pulling_0"
+  }
+}
